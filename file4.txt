@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated file 
+=======
+it is a 4th file
+>>>>>>> 46993bd52aba15e7a10eac0ffd38735db69cd98f
